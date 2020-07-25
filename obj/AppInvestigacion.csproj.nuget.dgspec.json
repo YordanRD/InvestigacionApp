@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ExtremeTech\\Documents\\AppInvestigacion\\AppInvestigacion.csproj": {}
+    "C:\\Users\\ExtremeTech\\Documents\\GitHub\\InvestigacionApp\\AppInvestigacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ExtremeTech\\Documents\\AppInvestigacion\\AppInvestigacion.csproj": {
+    "C:\\Users\\ExtremeTech\\Documents\\GitHub\\InvestigacionApp\\AppInvestigacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ExtremeTech\\Documents\\AppInvestigacion\\AppInvestigacion.csproj",
+        "projectUniqueName": "C:\\Users\\ExtremeTech\\Documents\\GitHub\\InvestigacionApp\\AppInvestigacion.csproj",
         "projectName": "AppInvestigacion",
-        "projectPath": "C:\\Users\\ExtremeTech\\Documents\\AppInvestigacion\\AppInvestigacion.csproj",
+        "projectPath": "C:\\Users\\ExtremeTech\\Documents\\GitHub\\InvestigacionApp\\AppInvestigacion.csproj",
         "packagesPath": "C:\\Users\\ExtremeTech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ExtremeTech\\Documents\\AppInvestigacion\\obj\\",
+        "outputPath": "C:\\Users\\ExtremeTech\\Documents\\GitHub\\InvestigacionApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
