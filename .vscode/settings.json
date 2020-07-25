@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/eddd083b-87cc-46d1-9248-900f19d97929/resourceGroups/AppExperimental/providers/Microsoft.Web/sites/AppInvestigacion"
+}
